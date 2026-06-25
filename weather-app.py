@@ -1,4 +1,4 @@
-%%writefile weather-app.py
+%%writefile app.py
 import streamlit as st
 import requests
 import pandas as pd
